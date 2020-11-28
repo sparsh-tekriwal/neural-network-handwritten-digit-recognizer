@@ -1,3 +1,6 @@
+## Neural network handwritten digit recognizer
+
+
 This programs assigns labels to handwritten digits using a single layer feed forward back propagation Neural network written from scratch in Python using Numpy. All of the functions needed to initialize, train, evaluate, and make predictions with the network are included.
 
 In forward propagation, the activation function used is the sigmoid function. In the output layer, softmax function is used to output the final label. Backpropagation is used to update the weights for the network.
